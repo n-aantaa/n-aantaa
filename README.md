@@ -7,15 +7,15 @@ I am Ndeye Anta Mbaye but most people call me Anta.
 - 🌱 I have practical experience through two internships and a freelance projects.
 
 **Languages:**
-- Front-end: HTML, Angular,
-- CSS, Tailwind CSS, Materialize CSS
-- JavaScript,  jQuery
+Front-end:
+HTML, Angular, CSS, Tailwind CSS, Materialize CSS, JavaScript,  jQuery
 
 Back-end:
 C, Python, Java/SpringBoot, Jhipster, C++, SQL, ELK stack,Node.JS, Express JS
 Oracle, Keycloak 
 
+Other skills:
 LucidChart, Cisco Packet Tracer, Git, Docker, Microsoft Office Suite
 
 
-- 📫 How to reach me: n_mbaye@mail.fhsu.edu
+📫 How to reach me: n_mbaye@mail.fhsu.edu
