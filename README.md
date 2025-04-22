@@ -1,16 +1,21 @@
+
 ## Hi there 👋
 
-<!--
-**n-aantaa/n-aantaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ndeye Anta Mbaye but most people call me Anta.
 
-Here are some ideas to get you started:
+- 🔭 I am pursuing a degree in Computer Science at Fort Hays State University, having gained practical experience via internships and freelance work. I am seeking a software engineering role to contribute to innovative software developments and am open to relocation anywhere in the US.
+- 🌱 I have practical experience through two internships and a freelance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:**
+- Front-end: HTML, Angular,
+- CSS, Tailwind CSS, Materialize CSS
+- JavaScript,  jQuery
+
+Back-end:
+C, Python, Java/SpringBoot, Jhipster, C++, SQL, ELK stack,Node.JS, Express JS
+Oracle, Keycloak 
+
+LucidChart, Cisco Packet Tracer, Git, Docker, Microsoft Office Suite
+
+
+- 📫 How to reach me: n_mbaye@mail.fhsu.edu
