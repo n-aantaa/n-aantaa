@@ -3,7 +3,8 @@
 
 I am Anta, junior software engineer.
 
-- 🔭 I graduated Cum Laude with a Bachelor of Science in Computer Science from Fort Hays State University, supplemented by substantial internship and freelance experience. I am seeking a software engineering position with a focus on innovative software development, and am willing to relocate within the United States.
+- I am currently pursuing a Master of Science in Computer Science at Penn State University.
+- 🔭 I graduated Cum Laude with a Bachelor of Science in Computer Science from Fort Hays State University, supplemented by substantial internship and freelance experience.
 - 🌱 I have practical experience through two internships and a freelance projects.
 
 **Languages:**
@@ -17,4 +18,4 @@ Technical skills: Agile/Scrum, Software Development, Software Testing, Object-Or
 Design, Unit Testing
 
 
-📫 How to reach me: n_mbaye@mail.fhsu.edu
+📫 How to reach me: ndeyeantambaye08@gmail.com
